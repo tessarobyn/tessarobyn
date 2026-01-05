@@ -16,7 +16,7 @@ All the fun tech, languages and software I have used over the last five years:
 #### Skills I'm Learning
 Currently I'm focussing on two streams: more design-focussed development using Figma and Blender, as well as data scraping/visualisation in Python using Flask and Selenium.
 
-[![Skills I'm Learning](https://skillicons.dev/icons?i=blender,figma,flask,selenium)](https://skillicons.dev)
+[![Skills I'm Learning](https://skillicons.dev/icons?i=blender,figma,flask,selenium,java)](https://skillicons.dev)
 <!--
 **tessarobyn/tessarobyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
